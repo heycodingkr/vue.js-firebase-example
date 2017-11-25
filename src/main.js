@@ -7,14 +7,16 @@ import router from './router'
 import firebase from 'firebase'
 
 Vue.config.productionTip = false
-
+/*
+  fill belows from the firebase project setup
+*/
 var config = {
-  apiKey: 'AIzaSyAYOHpIbAt9xJ0REsFCpFYr13IcZMbDC20',
-  authDomain: 'heycoding-12a9f.firebaseapp.com',
-  databaseURL: 'https://heycoding-12a9f.firebaseio.com',
-  projectId: 'heycoding-12a9f',
-  storageBucket: 'heycoding-12a9f.appspot.com',
-  messagingSenderId: '595701403072'
+  apiKey: '',
+  authDomain: '',
+  databaseURL: '',
+  projectId: '',
+  storageBucket: '',
+  messagingSenderId: ''
 }
 firebase.initializeApp(config)
 
