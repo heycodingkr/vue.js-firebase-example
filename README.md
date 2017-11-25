@@ -3,7 +3,6 @@
 > A Vue.js project firebase-email SignUp example
 > Firebase + Vue.js 의 email 가입 예제입니다.
 
-# https://medium.com/p/27c402171f63/edit
 
 ## Build Setup
 
